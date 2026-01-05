@@ -25,7 +25,7 @@ const Home = () => {
                 </p>
                 
                 <p className="text-lg mt-2 max-w-2xl mx-auto">
-                    A little about me. I'm a BSCS student passionate Info video game
+                    A little about me. I'm a BSCS student passionate about video game
                     development and problem-solving.
                 </p>
                 
